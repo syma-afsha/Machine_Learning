@@ -5,5 +5,5 @@ These resources depict the Machine Learning Lab that I conducted during my first
 ### Lab 3: Logistic Regression.
 ### Lab 4: DECISION TREES.
 ### Lab 5: Support Vector Machine (SVM).
-### 
-###
+### Lab 6 : Convolutional Neural Network (CNN).
+
